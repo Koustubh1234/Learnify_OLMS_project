@@ -1,6 +1,6 @@
 Learnify – Online Learning Management System (OLMS)
 
-A complete MERN-stack based Learning Management System designed for institutes, students, and educators. Learnify enables seamless course creation, content delivery, student engagement, and event scheduling—all through a clean and intuitive interface.
+Learnify is a web-based Online Learning Management System (OLMS) designed to simplify the way educational content is created, managed, and accessed. The system provides a centralized platform where instructors can create courses and upload lecture materials, students can enroll in courses and study at their convenience, and administrators can review and approve courses to maintain platform quality. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), Learnify focuses on providing a clean, user-friendly interface without unnecessary complexity. It ensures flexible learning by allowing access from any device with an internet connection. With essential features such as course creation, enrollment, lecture viewing, and admin approval, Learnify offers a simple yet effective digital learning solution suitable for educational institutions and online learning environments.
 
 🚀 Features
 👤 User Authentication & Security
